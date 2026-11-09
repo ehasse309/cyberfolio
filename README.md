@@ -12,11 +12,11 @@ I’m preparing for an entry-level role in cybersecurity, with a focus on SOC An
 
 ## Coursework and Projects
 
-### Home Attack Surface Assessment
+## Projects & Hands-On Training
 
-For a cybersecurity coursework exercise, I identified common physical and digital attack surfaces, considered their vulnerabilities, and matched likely attack vectors with practical ways to reduce risk.
+### TryHackMe
 
-I’m continuing to build hands-on experience and will add more project write-ups as I complete them.
+I’m documenting my TryHackMe training in the [`tryhackme` folder](./tryhackme/). Each write-up will describe the room’s learning goals, the tools or techniques I practiced, and what I learned.
 
 ## Professional Background
 
