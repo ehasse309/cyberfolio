@@ -16,7 +16,7 @@ I’m preparing for an entry-level role in cybersecurity, with a focus on SOC An
 
 ### TryHackMe
 
-I’m documenting my TryHackMe training in the [`tryhackme` folder](./tryhackme/). Each write-up will describe the room’s learning goals, the tools or techniques I practiced, and what I learned.
+I’m documenting my TryHackMe training in the- [TryHackMe journal](./_posts/2024-02-05-tryhackme-journal.markdown). Each write-up will describe the room’s learning goals, the tools or techniques I practiced, and what I learned.
 
 ## Professional Background
 
