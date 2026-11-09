@@ -1,32 +1,27 @@
-Freelancer Jekyll theme  
-=========================
+# Elicia Hasse | Cybersecurity Portfolio
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+I’m preparing for an entry-level role in cybersecurity, with a focus on SOC Analyst and Cybersecurity Analyst positions. I’m studying through Merit America and working toward the Google Cybersecurity Professional Certificate.
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
+## Skills I’m Developing
 
----
-```
+- **Security:** log analysis, SIEM, incident response, risk identification
+- **Operating systems:** Linux and Windows
+- **Network analysis:** Wireshark, tcpdump, Suricata
+- **Scripting and data:** Python, SQL, regular expressions, CyberChef
+- **SIEM platform:** Splunk
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
+## Coursework and Projects
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+### Home Attack Surface Assessment
 
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+For a cybersecurity coursework exercise, I identified common physical and digital attack surfaces, considered their vulnerabilities, and matched likely attack vectors with practical ways to reduce risk.
+
+I’m continuing to build hands-on experience and will add more project write-ups as I complete them.
+
+## Professional Background
+
+My background includes administrative support and direct care work. Those roles have strengthened my communication, documentation, attention to detail, ability to follow procedures, and experience handling sensitive information—skills I’m bringing into cybersecurity.
+
+## Career Goal
+
+I’m seeking an entry-level SOC Analyst or Cybersecurity Analyst role where I can keep learning, contribute to a security team, and help identify and respond to potential threats.
