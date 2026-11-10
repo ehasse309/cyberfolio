@@ -20,12 +20,11 @@ I’m documenting my TryHackMe training in the- [TryHackMe journal](./_posts/202
 
 ### Vulnerability Assessment
 
-I used NIST SP 800-30 Rev. 1 to assess the risks of a publicly accessible e-commerce database and recommend ways to secure it.
+I used NIST SP 800-30 Rev. 1 to assess the risks of a publicly accessible e-commerce database and recommend ways to secure it. Read the [vulnerability assessment](./_posts/2026-11-09-vulnerability-assessment.markdown).
 
 ### SQL Queries
 
-A collection of SQL queries demonstrating data retrieval, filtering, sorting, and analysis.
-
+A collection of SQL queries demonstrating data retrieval, filtering, sorting, and analysis. View the [SQL queries project](./_posts/2026-11-09-sql-queries.markdown).
 ## Professional Background
 
 My background includes administrative support and direct care work. Those roles have strengthened my communication, documentation, attention to detail, ability to follow procedures, and experience handling sensitive information—skills I’m bringing into cybersecurity.
